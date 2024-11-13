@@ -18,10 +18,10 @@ class ChatScreen extends StatelessWidget {
           padding: EdgeInsets.all(4.0),
           child: CircleAvatar(
             backgroundImage: NetworkImage(
-                'https://www.stylist.co.uk/images/app/uploads/2022/06/01105352/jennifer-aniston-crop-1654077521-1390x1390.jpg?w=256&h=256&fit=max&auto=format%2Ccompress'),
+                'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQTJyCWlyLs1zmS9PXNTamlFRcMezkUoFm7w&s'),
           ),
         ),
-        title: const Text('Mi amor ♥️'),
+        title: const Text('Mi amor Zayn♥️'),
         centerTitle: false,
       ),
       body: _ChatView(),
